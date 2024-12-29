@@ -115,7 +115,7 @@ function App() {
       {/* Footer */}
       <footer className="w-full py-4 bg-gray-200 text-center shadow-lg sm:mt-4 mt-8">
         <p className="text-sm text-black">
-          Made with ❤️ by <a href="https://github.com" className="text-blue-600">YourName</a>
+          Made with ❤️ by <a href="https://github.com//Rahamatullamandal2005" className="text-blue-600">Rahamatulla</a>
         </p>
         <p className="text-sm text-black">
           Powered by <a href="https://cloud.google.com/ai" className="text-blue-600">Google Generative AI</a>
