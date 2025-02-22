@@ -53,8 +53,7 @@ Chatbot AI is an interactive chatbot application that allows users to ask questi
 5. Open a Pull Request.
 
 ## Screenshots
-
-![Screenshot (354)](https://github.com/user-attachments/assets/c6625884-3052-4e0a-b3e7-8b36542dff27)
+![Screenshot (353)](https://github.com/user-attachments/assets/1274fd92-ef6b-4f4d-84ad-7dd215774ca6)
 
 ![Screenshot (354)](https://github.com/user-attachments/assets/8b370fb7-73ff-49bd-aa29-bd1738dca9ab)
 
