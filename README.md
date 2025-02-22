@@ -6,7 +6,6 @@ Chatbot AI is an interactive chatbot application that allows users to ask questi
 - AI-powered responses using Google Generative AI.
 - Supports markdown formatting and syntax highlighting for code.
 - Dark mode toggle for better readability.
-- Copy button for easily copying code snippets.
 - Clear chat functionality to reset input and output.
 
 ## Technologies Used
@@ -52,6 +51,13 @@ Chatbot AI is an interactive chatbot application that allows users to ask questi
 3. Commit your changes (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request.
+
+## Screenshots
+
+![Screenshot (354)](https://github.com/user-attachments/assets/c6625884-3052-4e0a-b3e7-8b36542dff27)
+
+![Screenshot (354)](https://github.com/user-attachments/assets/8b370fb7-73ff-49bd-aa29-bd1738dca9ab)
+
 
 ## License
 This project is licensed under the MIT License.
